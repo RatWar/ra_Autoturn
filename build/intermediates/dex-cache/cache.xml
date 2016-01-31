@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\arr\AndroidStudioProjects\ra_Autoturn\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-6caa1fe4da30cf2cc1676a54cb9890359b7ae5e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\arr\AndroidStudioProjects\ra_Autoturn\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\arr\AndroidStudioProjects\ra_Autoturn\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-2a77eedd829cfb93600ac2350ff91d7e9e808437.jar" />
+    </item>
+    <item
+        jar="C:\Users\arr\AndroidStudioProjects\ra_Autoturn\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\arr\AndroidStudioProjects\ra_Autoturn\app\build\intermediates\pre-dexed\debug\classes-79a8f198eb20f30b8e94fad44f12707d06519e4a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/arr/AndroidStudioProjects/ra_Autoturn/app/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Установки</string>
+    <string name="app_name">Автоповорот</string>
+    <string name="capOff">ВЫКЛ.</string>
+    <string name="capOn">ВКЛ.</string>
+    <string name="txtCloseView">Закрыть этот экран</string>
+    <string name="txtKillApp">Выгрузить программу</string>
+    <string name="txtSwitch">Автоповорот экрана</string>
+</resources>

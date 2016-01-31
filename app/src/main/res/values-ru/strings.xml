@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Автоповорот</string>
+    <string name="txtSwitch">Автоповорот экрана</string>
+    <string name="txtKillApp">Выгрузить программу</string>
+    <string name="capOff">ВЫКЛ.</string>
+    <string name="capOn">ВКЛ.</string>
+    <string name="action_settings">Установки</string>
+    <string name="txtCloseView">Закрыть этот экран</string>
+</resources>
